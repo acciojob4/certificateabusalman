@@ -33,6 +33,6 @@
     }
 
     .details {
-        gap: 6px; /* Adjust gap for very small screens */
+        gap: 5px; /* Adjust gap for very small screens */
     }
 }
