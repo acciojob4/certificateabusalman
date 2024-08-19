@@ -1,0 +1,15 @@
+.container{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 100px 250px;
+    font-size: 1.2rem;    
+    text-align: center;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
