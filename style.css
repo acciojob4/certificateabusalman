@@ -18,7 +18,7 @@
 @media (max-width: 768px) {
     .container {
         padding: 5vw 10vw; /* Less padding on smaller screens */
-        font-size: 1rem; /* Slightly smaller font size on mobile */
+        font-size: 0.8rem; /* Slightly smaller font size on mobile */
     }
 
     .details {
@@ -29,7 +29,7 @@
 @media (max-width: 480px) {
     .container {
         padding: 3vw 5vw; /* Even less padding on very small screens */
-        font-size: 0.9rem; /* Smaller font size for better readability */
+        font-size: 0.6rem; /* Smaller font size for better readability */
     }
 
     .details {
